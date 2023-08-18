@@ -1,3 +1,4 @@
+
 document.addEventListener('DOMContentLoaded', function () {
   let headerContentWidth, $nav
   let mobileSidebarOpen = false
